@@ -16,6 +16,3 @@ This is a simple Python-based Password Strength Checker tool with a graphical us
 
 1. Clone the repository or download the source code:
 
-```bash
-git clone https://github.com/ShalinVyas/PRODIGY_CS_03.git
-cd password-strength-checker
